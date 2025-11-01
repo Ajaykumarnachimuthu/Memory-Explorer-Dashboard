@@ -1,11 +1,14 @@
 # Memory-Explorer-Dashboard
-COA PROJECT SIMULATING 8086 MEMORY  ALLOCATION
+__COA PROJECT SIMULATING 8086 MEMORY  ALLOCATION__
+<br>
+<br>
+
 ![Dashboard Preview](images/dashboard1.png)
 <br>
 <br>
 
 
-STEP BY STEP ALLOCATION 
+__STEP BY STEP ALLOCATION__
 <br>
 <br>
 
