@@ -29,5 +29,6 @@ __POSTER__
 <br>
 <br>
 __TOOLS USED__
-*Text Editor* - visual studio
+*Text Editor* - Visual Studio
+<br>
 *GUI,POSTER* - Figma
