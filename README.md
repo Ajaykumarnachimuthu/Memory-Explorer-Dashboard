@@ -29,6 +29,12 @@ __POSTER__
 <br>
 <br>
 __TOOLS USED__
-*Text Editor* - Visual Studio
 <br>
-*GUI,POSTER* - Figma
+__*Text Editor*__ - Visual Studio
+<br>
+__*GUI*__ - Figma
+<br>
+__*POSTER*__ - Canva
+<br>
+__*AI Tool*__ - Deepseek AI
+<br>
