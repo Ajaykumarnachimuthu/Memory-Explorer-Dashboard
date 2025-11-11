@@ -26,3 +26,8 @@ __POSTER__
 <br>
 
 ![poster](images/coaprojectposter.jpg)
+<br>
+<br>
+__TOOLS USED__
+*Text Editor* - visual studio
+*GUI,POSTER* - Figma
