@@ -24,4 +24,5 @@ __POSTER__
 <br>
 
 <br>
+
 ![poster](images/coaposter.jpg)
