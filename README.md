@@ -25,4 +25,4 @@ __POSTER__
 
 <br>
 
-![poster](images/coaposter.jpg)
+![poster](images/coaprojectposter.jpg)
