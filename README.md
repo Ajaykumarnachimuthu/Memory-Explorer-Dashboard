@@ -21,4 +21,7 @@ __STEP BY STEP ALLOCATION__
 <br>
 
 __POSTER__
+<br>
+
+<br>
 ![poster](images/coaposter.jpg)
