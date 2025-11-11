@@ -17,4 +17,8 @@ __STEP BY STEP ALLOCATION__
 ![Dashboard Preview](images/dashboard2.png)
 
 
+<br>
+<br>
 
+__POSTER__
+![poster](images/coa.png)
